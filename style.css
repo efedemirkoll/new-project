@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar{
+padding: 20px;
+margin-right: 30px;
+}
+
+
+.asd{
+    background-color: #e2dfdfb4;
+    padding: 2.7rem;
+}
+
+.asd a{
+    color:#000000!important ;
+    font-weight: bold;
+}
+
+.zxc{
+    margin-top: 2rem;
+    text-align: end;
+}
+.nav{
+    margin-top: 20px;
+}
+
+.nav-items a{
+    color:#000000 ;
+    font-size: 18px;
+}
+
+.col-md-8 img{
+    height: 300px;
+    width:100%;
+}
+
+
+.menu{
+    margin-top: 3rem;
+}
+span{
+    color:rgb(166, 162, 162);
+}
+
+.menu-image img {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    height: 50px;
+}
+
+.menu-image p{
+    margin-top: 0.7rem;
+    margin-left: 1rem;
+}
+.fala{
+    margin-left: 30px;
+}
